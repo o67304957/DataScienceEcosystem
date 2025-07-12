@@ -1,2 +1,2 @@
-# DataScienceEcosystem
-Part of Coursera's Data Science Course
+# Data Science
+Assignments part of Coursera's Data Science Course
